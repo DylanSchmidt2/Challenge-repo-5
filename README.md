@@ -29,6 +29,9 @@ N/A
 
 *P.S This project is extremely rebuildable and has been built many times, so, go check out my psuedocode!! I go into more depth with the innerworkings/how I constructed the app personally*
  
+Screenshot:
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
 Link to site: https://dylanschmidt2.github.io/Challenge-repo-5/
 
 ### Thanks to:
