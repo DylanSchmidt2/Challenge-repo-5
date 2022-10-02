@@ -27,7 +27,7 @@ These CSS, HTML, and JavaScript documents, use local storage, styling, and user 
 
 *P.S This project is extremely rebuildable and has been built many times, so, go check out my psuedocode!! I go into more depth with the innerworkings/how I constructed the app personally*
  
-Link to site: 
+Link to site: https://dylanschmidt2.github.io/Challenge-repo-5/
 
 ### Thanks to:
 * William Hersch
