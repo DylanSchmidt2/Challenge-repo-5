@@ -17,6 +17,8 @@ These CSS, HTML, and JavaScript documents, use local storage, styling, and user 
     
 ### Bugs
 
+N/A
+
 ### Extra add-ons
 
 ###### I enjoy adding quality of life (qol) functions to assignments, time permitting. Unfortunately, I didn't have time to bring them to life on this assignment.
