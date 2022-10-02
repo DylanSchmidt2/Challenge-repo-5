@@ -30,7 +30,7 @@ N/A
 *P.S This project is extremely rebuildable and has been built many times, so, go check out my psuedocode!! I go into more depth with the innerworkings/how I constructed the app personally*
  
 Screenshot:
-![Alt text](Challenge 5 ss.PNG?raw=true "Screenshot")
+![Challenge 5 ss](https://user-images.githubusercontent.com/109780961/193472101-4300c8be-292c-43bc-9955-3efbc70b35f5.PNG)
 
 Link to site: https://dylanschmidt2.github.io/Challenge-repo-5/
 
